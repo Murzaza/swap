@@ -1,5 +1,7 @@
 # SWAP
 
+![Rust](https://github.com/Murzaza/swap/workflows/Rust/badge.svg?branch=master)
+
 A simple program to swap two files.
 
 ## WHY
